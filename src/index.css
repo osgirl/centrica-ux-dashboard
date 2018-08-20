@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'BG';
+  font-style: normal;
+  font-weight: 200;
+  src: url('./fonts/BGFlameWeb-Light.woff2') format('woff2'),
+  local('BGFlame'), local('BG Flame')
+}
+@font-face {
+  font-family: 'BG';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./fonts/BGFlameWeb-Regular.woff2') format('woff2'),
+  local('BGFlame'), local('BG Flame')
+}
+@font-face {
+  font-family: 'BG';
+  font-style: normal;
+  font-weight: 700;
+  src: url('./fonts/BGFlameWeb-Bold.woff2') format('woff2'),
+  local('BGFlame'), local('BG Flame')
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'BG';
+}

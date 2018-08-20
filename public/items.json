@@ -1,0 +1,99 @@
+[
+  { "title": "Slack Centrica-UX Team", "link": "http://centricaux.slack.com" },
+  { "title": "Slack BG Digital", "link": "http://webtransformation.slack.com" },
+  { "title": "Slack BGB Digital", "link": "http://bgbdigital.slack.com" },
+  { "title": "British Gas Residential", "link": "http://britishgas.co.uk" },
+  {
+    "title": "British Gas Business",
+    "link": "http://britishgas.co.uk/business"
+  },
+  {
+    "title": "Clarity",
+    "link": "https://cppm3016.ondemand.ca.com/niku/nu#action:homeActionId"
+  },
+  {
+    "title": "Outlook",
+    "link": "https://outlook.office.com/owa/"
+  },
+  {
+    "title": "Workday",
+    "link": "https://wd3.myworkday.com/centrica/d/home.htmld"
+  },
+  {
+    "title": "Dropbox",
+    "link": "https://www.dropbox.com"
+  },
+  {
+    "title": "Frontify",
+    "link": "https://centrica.frontify.com/"
+  },
+  {
+    "title": "Nucleas",
+    "link": "https://centrica.frontify.com/"
+  },
+  {
+    "title": "Trello",
+    "link": "https://trello.com/b/JqTUyeKD/ux-tasks"
+  },
+  {
+    "title": "UX Team Calendar",
+    "link": "https://docs.google.com/spreadsheets/d/1ShlV9XwZs_kZlR1VC5dE2L5Cg39tU7OYeBpt1snuJl4/edit#gid=267370034"
+  },
+  {
+    "title": "Acronyms",
+    "link": "https://rf5upr.axshare.com/#g=1&p=acronym"
+  },
+  {
+    "title": "Adobe Analytics",
+    "link": "https://centricabritishgas.marketing.adobe.com/libs/granite/core/content/login.html?resource=%2Fanalytics%3Floginas%3Dfalse%26disableExpiredRedirect%3Dtrue&$$login$$=%24%24login%24%24&j_reason=session_timed_out&j_reason_code=invalid_login"
+  },
+  {
+    "title": "JIRA",
+    "link": "http://tools.britishgas.co.uk/jira"
+  },
+  {
+    "title": "SAP Fieldglass",
+    "link": "https://www.fieldglass.net/login.do",
+    "fridayPrio": true
+  },
+  {
+    "title": "Centrica Meeting Space",
+    "link": "https://meet1.centrica.com/index.html"
+  },
+  {
+    "title": "GitHub",
+    "link": "https://github.com/orgs/ConnectedHomes/teams/centricaux"
+  },
+  {
+    "title": "Shutterstock",
+    "link": "https://shutterstock.com"
+  },
+  {
+    "title": "Decibel",
+    "link": "https://app.decibelinsight.com/"
+  },
+  {
+    "title": "Usabilla",
+    "link": "https://app.usabilla.com/"
+  },
+  {
+    "title": "Centrica Digital Service Manual",
+    "link": "https://www.centricadigitalservicemanual.com/"
+  },
+  {
+    "title": "Hangouts",
+    "link": "NEED LINK"
+  },
+  {
+    "title": "Box",
+    "link": "https://app.box.com/s/n1x4mc3p92ztuvp8y36xo2dzmbhkgow1"
+  },
+  {
+    "title": "Order System",
+    "link": "https://csmprod.service-now.com/csm/order_something.do"
+  },
+  {
+    "title": "Maximyser",
+    "link": "https://www.maximizer.com/uk/"
+  }
+]
