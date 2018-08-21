@@ -1,7 +1,11 @@
 [
   { "title": "Slack Centrica-UX Team", "link": "http://centricaux.slack.com" },
   { "title": "Slack BG Digital", "link": "http://webtransformation.slack.com" },
-  { "title": "Slack BGB Digital", "link": "http://bgbdigital.slack.com" },
+  {
+    "title": "Slack BGB Digital",
+    "link": "http://bgbdigital.slack.com",
+    "twoFA": true
+  },
   { "title": "British Gas Residential", "link": "http://britishgas.co.uk" },
   {
     "title": "British Gas Business",
@@ -13,7 +17,8 @@
   },
   {
     "title": "Outlook",
-    "link": "https://outlook.office.com/owa/"
+    "link": "https://outlook.office.com/owa/",
+    "twoFA": true
   },
   {
     "title": "Workday",
@@ -49,7 +54,8 @@
   },
   {
     "title": "JIRA",
-    "link": "http://tools.britishgas.co.uk/jira"
+    "link": "http://tools.britishgas.co.uk/jira",
+    "centrica": true
   },
   {
     "title": "SAP Fieldglass",
