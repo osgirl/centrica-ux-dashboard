@@ -13,7 +13,8 @@
   },
   {
     "title": "Clarity",
-    "link": "https://cppm3016.ondemand.ca.com/niku/nu#action:homeActionId"
+    "link": "https://cppm3016.ondemand.ca.com/niku/nu#action:homeActionId",
+    "fridayPrio": true
   },
   {
     "title": "Outlook",
@@ -59,8 +60,7 @@
   },
   {
     "title": "SAP Fieldglass",
-    "link": "https://www.fieldglass.net/login.do",
-    "fridayPrio": true
+    "link": "https://www.fieldglass.net/login.do"
   },
   {
     "title": "Centrica Meeting Space",

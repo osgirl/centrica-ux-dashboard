@@ -11,7 +11,7 @@ class App extends Component {
 
     this.state = {
       isLoading: true,
-      isFriday: true //today.getDay() == 5 ? true : false
+      isFriday: today.getDay() == 5 ? true : false
     };
 
     setTimeout(this.getData.bind(this), 400);
